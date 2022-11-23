@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @priyanshu8999
 - 👀 I’m interested in Al,ML
-- 🌱 I’m currently learning Data analyst part
+- 🌱 I’m currently learning ML algorithm part
 - 💞️ I’m looking to collaborate on ...
 - 
 <!---
