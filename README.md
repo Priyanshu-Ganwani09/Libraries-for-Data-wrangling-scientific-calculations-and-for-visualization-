@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @priyanshu_Ganwani
 - 👀 I’m interested in Al,ML
 - 🌱 I’m currently learning ML algorithm part
-- 💞️ I’m looking to collaborate on ...
-- 
+- 💞️ I’m working on opensource problem's too.
